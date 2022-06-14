@@ -33,6 +33,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'widget_tweaks',
     'passagens',
     'tempus_dominus',
     'django.contrib.admin',
